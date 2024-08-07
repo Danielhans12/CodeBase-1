@@ -43,4 +43,6 @@ export let outputgen = {
         }
         
     }
+
+    //! the paganation tolower and tohigher can be put here!
 }
