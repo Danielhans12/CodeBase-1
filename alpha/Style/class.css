@@ -1,0 +1,29 @@
+.app{
+    margin: 0 auto;
+    gap: 1rem;
+    display: flex;
+    flex-direction: column;  
+    align-items: center;
+}
+.card{
+    display: grid;
+    place-items: center;
+    padding: 2rem .7rem;
+    max-width: 520px;
+    text-align: justify;
+    font-weight: 100;
+    border: 2px solid white;
+}
+.card h1{
+    font-size: 2.7rem;
+}
+.card h2{
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+.card button{
+    margin: 1rem;
+    margin-top: 1.7rem;
+    padding: .5rem;
+    font-size: 1.1rem;
+}
