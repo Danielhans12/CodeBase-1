@@ -11,6 +11,27 @@ export let protocontent = [
             <button class="tochapter" id="higherchap">Press this button</button>
             <button class="tochapter" id="lowerchap">Press this button</button>
         </div>`
+    ],
+    [
+        `<h1>Chapter 2</h1>`,
+        `<div>
+        <button class="tochapter" id="higherchap">Press this button</button>
+        <button class="tochapter" id="lowerchap">Press this button</button>
+    </div>`
+    ],
+    [
+        `<h1>Chapter 3</h1>`,
+        `<div>
+        <button class="tochapter" id="higherchap">Press this button</button>
+        <button class="tochapter" id="lowerchap">Press this button</button>
+    </div>`
+    ],
+    [
+        `<h1>Chapter 4</h1>`,
+        `<div>
+        <button class="tochapter" id="higherchap">Press this button</button>
+        <button class="tochapter" id="lowerchap">Press this button</button>
+    </div>`
     ]
 ]
 //! you need to traverse 
